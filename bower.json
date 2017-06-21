@@ -1,0 +1,21 @@
+{
+  "name": "SiteResponsivo",
+  "homepage": "https://github.com/biodamasceno/SiteResponsivo",
+  "authors": [
+    "biodamasceno@gmail.com <biodamasceno@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

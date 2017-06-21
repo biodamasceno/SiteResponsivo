@@ -2,15 +2,16 @@
 	background-image: url('../image/logo_fatec.png');
 	width: 1024px;
 	height: 500px;
-	float: left;
-	margin: 0px auto;
+	margin: 0 auto;
+	margin-top:
 }
 
-.menu{
-	float: left;
+div.topo li{
+	background-color: #FFF;
+	opacity: 0.3;
 }
 
-.menu a{
+div.topo li a{
 	text-decoration: none;
-	
+	display: inline-block;
 }
